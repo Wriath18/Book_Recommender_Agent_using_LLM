@@ -20,10 +20,12 @@ The Streamlit based app implements a book recommendation functionality using an 
 
 Watch the video demonstration of the project:
 
-## Preview Video is stored here :
+## Preview Video is stored here : ![Watch Video](https://github.com/Wriath18/Book_Recommender_Agent_using_LLM/blob/main/Images/Preview.mp4)
 
 #Interface
-![Image](https://github.com/Wriath18/PokeDex_Streamlit_LLM/blob/main/Images/Screenshot%202024-06-17%20135642.png)
+![Image](https://github.com/Wriath18/Book_Recommender_Agent_using_LLM/blob/main/Images/1.png)
+![Image](https://github.com/Wriath18/Book_Recommender_Agent_using_LLM/blob/main/Images/2.png)
+![Image](https://github.com/Wriath18/Book_Recommender_Agent_using_LLM/blob/main/Images/3.png)
 
 ## Categories Supported in accordnce with database
 
